@@ -56,7 +56,7 @@ Lista:
 1. Stypa Aneta
 1. Szczutkowski Dawid
 1. Szewczyk Krystian
-1. Tarnowski Łukasz
+1. [Tarnowski, Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)
 1. Tkaczyk Michał
 1. Tyczyński Michał
 1. Tymiński Karol
